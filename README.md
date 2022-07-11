@@ -1,6 +1,6 @@
 # Equipment App
 
-Backend: NodeJS + TypeScript. Koa as middleware. DynamoDB as NoSQL database. 
+Backend: NodeJS + TypeScript. Koa as middleware. DynamoDB as NoSQL database.<br />
 Frontend: React + TypeScript.
 
 # Backend Development
