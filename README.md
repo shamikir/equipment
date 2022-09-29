@@ -1,6 +1,6 @@
 # Equipment App
 
-Backend: NodeJS + TypeScript. Koa as middleware. DynamoDB as NoSQL database. 
+Backend: NodeJS + TypeScript. Koa as middleware. DynamoDB as NoSQL database. <br />
 Frontend: React + TypeScript.
 
 # Backend Development
@@ -25,5 +25,5 @@ cd src/client && npm install
 npm run app
 ```
 
-Server http port :8000
+Server http port :8000 <br />
 Client http port :3000
