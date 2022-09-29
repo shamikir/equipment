@@ -27,3 +27,9 @@ npm run app
 
 Server http port :8000 <br />
 Client http port :3000
+
+# Test
+
+```bash
+npm test
+```
